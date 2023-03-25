@@ -1,5 +1,5 @@
 {
-  "name" :"pemedina/ispconfig-wrapper",
+  "name" :"freshost/ispconfig-wrapper",
   "description" :"A simple wrapper for ISPConfig 3 Remote API. ",
   "keywords" :[
     "PHP",
